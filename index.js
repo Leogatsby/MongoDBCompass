@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 // MongoDB 연결 URI
-const mongoURI = "mongodb://127.0.0.1:27017/CompassExamples";
+const mongoURI = "mongodb://127.0.0.1:27017/CompassExampleTest";
 
 // MongoDB 연결
 mongoose
